@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
+![Views](https://komarev.com/ghpvc/?username=singh-deepak7&label=Profile%20views&color=0e75b6&style=flat-square)
+
+

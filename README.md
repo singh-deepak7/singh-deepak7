@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 ![Views](https://komarev.com/ghpvc/?username=singh-deepak7&label=Profile%20views&color=0e75b6&style=flat-square)
 
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-deepak7&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-deepak7&show_icons=true&theme=gruvbox" alt="Top Languages" />
+</div>

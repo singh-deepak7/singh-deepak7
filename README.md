@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singh-deepak7&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-deepak7&show_icons=true&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-deepak7&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-deepak7&show_icons=true&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
